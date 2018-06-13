@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 蜘蛛网图 -->
+    <declare-styleable name="RadarView">
+        <attr name="rvTitleColor" format="integer" />
+        <attr name="rvTitleSize" format="dimension" />
+
+        <attr name="rvConnLineColor" format="color" />
+        <attr name="rvConnLineSize" format="dimension"  />
+
+        <attr name="rvOverlayColor" format="color" />
+        <attr name="rvOverlayAlpha" format="integer" />
+
+        <attr name="rvDotColor" format="color"  />
+        <attr name="rvDotSize" format="integer"  />
+    </declare-styleable>
+</resources>
